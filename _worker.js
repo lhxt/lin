@@ -12,8 +12,10 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/trojan.txt
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+vless://ee194850-f43c-4ad9-8726-2488e4800977@127.0.0.1:1234?encryption=none&security=none&sni=dns.beifen.us.kg&fp=random&type=ws#2025%E5%B9%B42%E6%9C%888%E6%97%A5%E5%88%B0%E6%9C%9F
+vless://caca8209-d799-4462-935b-69c867fe34e9@sg-1.lhxt.xyz:80?encryption=none&security=none&type=ws&host=vps-1.beifen.us.kg&path=%2Faa#%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8B%AC%E4%BA%AB%E8%8A%82%E7%82%B9-1000M
+vless://285d75cd-92b3-4841-a75b-e54cf004fc2f@us-1.lhxt.xyz:443?encryption=none&security=tls&sni=dns.beifen.us.kg&fp=random&type=ws&host=dns.beifen.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD-%E6%B2%B9%E7%AE%A14K%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91
+
 `
 
 let urls = [];
