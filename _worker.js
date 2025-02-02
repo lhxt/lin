@@ -29,7 +29,16 @@ vless://be2f4b26-75e8-4eea-b591-206e4c0ee309@104.24.240.185:443?encryption=none&
 vless://be2f4b26-75e8-4eea-b591-206e4c0ee309@141.101.69.166:443?encryption=none&security=tls&sni=dns.beifen.us.kg&fp=random&type=ws&host=dns.beifen.us.kg&path=%2F%3Fed%3D2560#%E7%8B%AC%E4%BA%AB%E8%8A%82%E7%82%B95
 vless://be2f4b26-75e8-4eea-b591-206e4c0ee309@172.64.55.194:443?encryption=none&security=tls&sni=dns.beifen.us.kg&fp=random&type=ws&host=dns.beifen.us.kg&path=%2F%3Fed%3D2560#%E7%8B%AC%E4%BA%AB%E8%8A%82%E7%82%B96
 vless://be2f4b26-75e8-4eea-b591-206e4c0ee309@188.114.97.230:443?encryption=none&security=tls&sni=dns.beifen.us.kg&fp=random&type=ws&host=dns.beifen.us.kg&path=%2F%3Fed%3D2560#%E7%8B%AC%E4%BA%AB%E8%8A%82%E7%82%B97
-
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.39.223.233:443#%E9%9F%A9%E5%9B%BD-1.63MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#%E7%AB%8B%E9%99%B6%E5%AE%9B-3.71MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.115.19:443#%E9%9F%A9%E5%9B%BD-2.25MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ@fr1.opensocks.site:8388#%E6%B3%95%E5%9B%BD-110.3KB%2Fs
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#%E9%9F%A9%E5%9B%BD-5.08MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%E7%AB%8B%E9%99%B6%E5%AE%9B-3.66MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%E7%AB%8B%E9%99%B6%E5%AE%9B-103.4KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%E7%AB%8B%E9%99%B6%E5%AE%9B-107.0KB%2Fs
+ss://YWVzLTI1Ni1nY206UktJTUlZTDJWWDhSMkEwOQ@23.185.248.12:17002#%E6%9C%AA%E7%9F%A5%E5%9B%BD%E5%AE%B6-34.2MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.151.148.166:443#%E6%96%B0%E5%8A%A0%E5%9D%A1-4.08MB%2Fs
 
 `
 
