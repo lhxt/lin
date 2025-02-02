@@ -12,9 +12,9 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@cshgz1.fuckcdn.top:20939#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-02-09
-ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@cshgz1.fuckcdn.top:20939#%F0%9F%87%A8%F0%9F%87%B3%20%E4%BD%BF%E7%94%A8%E5%89%8D%E8%AF%B7%E7%82%B9%E5%87%BB%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@cshgz1.fuckcdn.top:20939#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B5%81%E5%AA%92%E4%BD%93%E4%B8%93%E7%94%A8%E8%8A%82%E7%82%B9%E8%A7%A3%E9%94%81%E5%85%A8%E7%90%83%E6%B5%81%E5%AA%92%E4%BD%93
+ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@1.1.1.1:20939#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-02-09
+ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@1.1.1.1:20939#%F0%9F%87%A8%F0%9F%87%B3%20%E4%BD%BF%E7%94%A8%E5%89%8D%E8%AF%B7%E7%82%B9%E5%87%BB%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+ss://YWVzLTEyOC1nY206MDFiZGY5N2QtNzViZS00ZjJlLTgyYTUtNjYxMDlhYjc4ZmRk@1.1.1.1:20939#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B5%81%E5%AA%92%E4%BD%93%E4%B8%93%E7%94%A8%E8%8A%82%E7%82%B9%E8%A7%A3%E9%94%81%E5%85%A8%E7%90%83%E6%B5%81%E5%AA%92%E4%BD%93
 vless://01bdf97d-75be-4f2e-82a5-66109ab78fdd@syd-01.oci.ee:23258?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&fp=chrome&pbk=ThfOtumNgf18JU_gZRGLrM_-HLcTGVn5D174o37mShI&sid=5b9b950d&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA%20AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 vless://01bdf97d-75be-4f2e-82a5-66109ab78fdd@phx-plus-1ddns.faforex.eu.org:23258?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&fp=chrome&pbk=BSEvpP7N7XNtOgzDrCFEgu6ejgdBHOYRug6S_lTf5GM&sid=bfbc4c1f&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD-%E5%87%A4%E5%87%B0%E5%9F%8E
 vless://01bdf97d-75be-4f2e-82a5-66109ab78fdd@seoul-plus-ddns.faforex.eu.org:23258?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&fp=chrome&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%E9%9F%A9%E5%9B%BD
